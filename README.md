@@ -1,4 +1,4 @@
-#Estudo Java
+# Estudo Java
 Projeto criado para estudo da linguagem de programação Java.
 
 O objetivo do projeto é aprender a sintaxe e padrões da linguagem.
