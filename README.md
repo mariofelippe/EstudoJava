@@ -8,7 +8,7 @@ O objetivo do projeto é aprender a sintaxe e padrões da linguagem.
    - Tipos de dados primitivos em Java (int, double, boolean, char, etc.).
    - Declaração e inicialização de variáveis.
    - Conversão de tipos (casting).
-   - [ ] Desafio: Escreva um programa em Java que calcule a média de notas de um aluno.
+   - [X] Desafio: Escreva um programa em Java que calcule a média de notas de um aluno.
    
 ## 2 - Estruturas de Controle:
    - Estrutura condicional `if-else`.
