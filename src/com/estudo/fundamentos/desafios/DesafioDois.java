@@ -19,6 +19,8 @@ public class DesafioDois {
 		}else {
 			System.out.println("O número " + numero + " é ímpar!");
 		}
+		
+		entrada.close();
 
 	}
 

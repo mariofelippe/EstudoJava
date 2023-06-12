@@ -14,7 +14,7 @@ O objetivo do projeto é aprender a sintaxe e padrões da linguagem.
    - Estrutura condicional `if-else`.
    - Estrutura de repetição `for`, `while` e `do-while`.
    - Desvio de controle com `break` e `continue`.
-   - [ ] Desafio: Escreva um programa em Java que verifica se um número é par ou ímpar.
+   - [X] Desafio: Escreva um programa em Java que verifica se um número é par ou ímpar.
    
 ## 3 - Funções e Métodos:
    - Declaração de métodos em Java.
