@@ -20,7 +20,7 @@ O objetivo do projeto é aprender a sintaxe e padrões da linguagem.
    - Declaração de métodos em Java.
    - Parâmetros e retorno de métodos.
    - Sobrecarga de métodos.
-   - [ ] Desafio: Escreva um método em Java que calcule o fatorial de um número.
+   - [X] Desafio: Escreva um método em Java que calcule o fatorial de um número.
    
 ## 4. Orientação a Objetos:
    - Classes e Objetos em Java.
