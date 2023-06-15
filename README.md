@@ -27,7 +27,7 @@ O objetivo do projeto é aprender a sintaxe e padrões da linguagem.
    - Atributos e métodos de instância.
    - Encapsulamento e modificadores de acesso (public, private, protected).
    - Construtores e instânciação de objetos.
-   - [ ] Desafio: Crie uma classe em Java que represente um carro, com atributos como marca, modelo, ano, e métodos para ligar, desligar e acelerar.
+   - [X] Desafio: Crie uma classe em Java que represente um carro, com atributos como marca, modelo, ano, e métodos para ligar, desligar e acelerar.
    
 ## 5. Herança e Polimorfismo:
    - Herança de classes em Java.
