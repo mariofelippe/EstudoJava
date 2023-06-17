@@ -33,7 +33,7 @@ O objetivo do projeto é aprender a sintaxe e padrões da linguagem.
    - Herança de classes em Java.
    - Sobrescrita de métodos.
    - Polimorfismo e uso de classes abstratas e interfaces.
-   - [ ] Desafio: Crie uma hierarquia de classes em Java para representar diferentes tipos de animais, com métodos específicos para cada tipo de animal.
+   - [X] Desafio: Crie uma hierarquia de classes em Java para representar diferentes tipos de animais, com métodos específicos para cada tipo de animal.
 
 ## 6. Tratamento de Exceções:
    - Exceções em Java e tipos de exceções.
