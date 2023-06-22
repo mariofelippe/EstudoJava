@@ -1,4 +1,4 @@
-package com.estudo.oo.desafios;
+package com.estudo.oo.desafios.classes;
 
 public class Aguia extends Ave{
 

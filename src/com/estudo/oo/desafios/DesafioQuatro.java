@@ -1,5 +1,7 @@
 package com.estudo.oo.desafios;
 
+import com.estudo.oo.desafios.classes.Carro;
+
 public class DesafioQuatro {
 
 	public static void main(String[] args) {

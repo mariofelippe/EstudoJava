@@ -1,4 +1,4 @@
-package com.estudo.oo.desafios;
+package com.estudo.oo.desafios.classes;
 
 public abstract class Animal {
 

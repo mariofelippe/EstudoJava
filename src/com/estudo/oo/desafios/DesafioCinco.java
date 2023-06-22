@@ -1,5 +1,8 @@
 package com.estudo.oo.desafios;
 
+import com.estudo.oo.desafios.classes.Aguia;
+import com.estudo.oo.desafios.classes.Ave;
+
 public class DesafioCinco {
 
 	public static void main(String[] args) {
