@@ -39,4 +39,4 @@ O objetivo do projeto é aprender a sintaxe e padrões da linguagem.
    - Exceções em Java e tipos de exceções.
    - Bloco `try-catch` e `finally`.
    - Lançamento de exceções personalizadas.
-   - [ ] Desafio: Escreva um programa em Java que solicite a entrada de um número e trate a exceção caso o usuário informe um valor inválido.
+   - [X] Desafio: Escreva um programa em Java que solicite a entrada de um número e trate a exceção caso o usuário informe um valor inválido.
