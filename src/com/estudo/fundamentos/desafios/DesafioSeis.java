@@ -26,7 +26,8 @@ public class DesafioSeis {
 				
 			}catch (Exception e) {
 				System.err.println("Erro! Número inválido! "+ e);
-				numero = 1;
+				numero = 10;
+				sc.next();
 			}			
 			
 		}
